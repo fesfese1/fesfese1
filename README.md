@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fesfese1
 - 👀 I’m interested in Web(backend) and Flutter development 
 - 🌱 I’m currently learning New Techonologies
-- 💞️ I’m looking to collaborate on Anything 
 
 <!---
 fesfese1/fesfese1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
